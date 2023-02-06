@@ -4,9 +4,10 @@
     "description": "Proyecto de API Rest con NodeJS para el curso de Victor Robles",
     "main": "index.js",
     "scripts": {
+        "start": "nodemon index.js",
         "test": "echo\"Error: no test specified\" && exit 1"
     },
-    "author": "Leidy Gómez Cala",
+    "author": "Victor Robles",
     "license": "MIT",
     "dependencies": {
         "bcrypt-nodejs": "^0.0.3",
